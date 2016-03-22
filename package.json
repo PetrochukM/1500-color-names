@@ -1,0 +1,29 @@
+{
+  "name": "1500-color-names",
+  "version": "1.0.0",
+  "description": "A list of color names and their hex values",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deepblue129/color-names.git"
+  },
+  "keywords": [
+    "color-names",
+    "color-name",
+    "color",
+    "color-keyword",
+    "keyword"
+  ],
+  "author": "Michael Petrochuk <Petrochukm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepblue129/color-names/issues"
+  },
+  "homepage": "https://github.com/deepblue129/color-names/"
+}
