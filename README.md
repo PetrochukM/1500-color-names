@@ -1,6 +1,13 @@
 ## Synopsis
 
-A JSON with 1500 color names and their hex values. Based on http://chir.ag/projects/ntc/ && http://dev.w3.org/csswg/css-color/#named-colors.
+A JSON with 1500 color names and their hex values. 
+Based on:
+http://dev.w3.org/csswg/css-color/#named-colors
+https://en.wikipedia.org/wiki/Lists_of_colors
+https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
+http://people.csail.mit.edu/jaffer/Color/Dictionaries.html
+http://chir.ag/projects/ntc/
+http://people.csail.mit.edu/jaffer/Color/resenecolours.txt
 
 ## Code Example
 
