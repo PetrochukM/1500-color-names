@@ -6,7 +6,7 @@ A JSON with 1500 color names and their hex values. Based on http://chir.ag/proje
 
 ```js
 var colors = require('color-names');
-colors["Red Beech"] //7B3801
+colors["Red Beech"]; //7B3801
 ```
 
 ## Get Started
