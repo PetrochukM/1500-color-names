@@ -27,6 +27,7 @@ Download from NPM `npm install 1500-color-names --save`
 <a href="LICENSE"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="120"/></a>
 
 ## API
+```
 Abbey <-> 4C4F56
 Acadia <-> 1B1404
 Acapulco <-> 7CB0A1
@@ -1593,3 +1594,4 @@ Zombie <-> E4D69B
 Zorba <-> A59B91
 Zuccini <-> 044022
 Zumthor <-> EDF6FF
+```
